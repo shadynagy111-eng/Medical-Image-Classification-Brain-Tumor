@@ -1,0 +1,16 @@
+model:
+  name: "resnet50"
+  num_classes: 4
+  pretrained: true
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 0.001
+  weight_decay: 0.0001
+
+data:
+  image_size: 224
+  train_path: "data/raw/train"
+  val_path: "data/raw/val"
+  test_path: "data/raw/test"
