@@ -2,7 +2,7 @@
 
 data/
   ├── raw/
-  │   ├── train/
-  │   ├── val/
-  │   └── test/
-  └── processed/
+│   ├── train/
+│   ├── val/
+│   └── test/
+└── processed/
