@@ -1,8 +1,9 @@
 # Create one file with this structure:
-
+'''
 data/
-  ├── raw/
+    ├── raw/
 │   ├── train/
 │   ├── val/
 │   └── test/
 └── processed/
+'''
