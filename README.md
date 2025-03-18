@@ -26,6 +26,9 @@ A deep learning model for classifying medical images (X-rays) into different dis
 - Matplotlib/Seaborn
 
 ## Project Structure
+
+'''
+
 Medical-Image-Classification-AI/
 │
 ├── data/
@@ -62,3 +65,5 @@ Medical-Image-Classification-AI/
 ├── requirements.txt
 ├── config.yaml
 └── README.md
+
+'''
